@@ -19,7 +19,7 @@
                             //'http://loinc.org|8462-4',  //Diastolic BP
                             //'http://loinc.org|8480-6',   //Systolic BP
                               'http://loinc.org|2085-9',  //HDL
-                              'http://loinc.org|2085-9'
+                              'http://loinc.org|2085-9',
                               'http://loinc.org|8310-5',  //LDL
                               'http://loinc.org|85354-9']  //bp
                       }
